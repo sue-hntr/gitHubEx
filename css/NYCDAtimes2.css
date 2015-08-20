@@ -1,0 +1,32 @@
+
+#wrapper{
+	width: 800px;
+	margin: 0 auto;
+	padding: 10px;
+	font-family: "arial", sans-serif;
+	text-align: left;
+
+}
+
+h1{
+	padding-left: 10px;
+	text-align: left;
+}
+
+p{
+	padding-left: 10px;
+}
+
+#stayput{
+	position: fixed;
+	top: 10px;
+	left: 5px;
+}
+img{
+	float: left;
+	margin-right: 10px;
+}
+
+.clear{
+	clear: both;
+}
